@@ -12,5 +12,6 @@
     "login"
   ],
   "author": "xinpengzhang",
-  "license": "ISC"
+  "license": "GNU",
+  "git repository":"https://github.com/zxpzxpzxpzxpzxp/NodejsMongodbLog"
 }
