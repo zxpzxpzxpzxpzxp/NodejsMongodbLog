@@ -10,7 +10,7 @@ const schema = {
 }
 const mydata = mongoose.model('cat1s', schema);
 const kitty = new mydata({ name: 'Zildjian2' });
-kitty1.save()
+kitty.save()
 
 app.use('/',express.static('public'))
 app.get("/input",(req,res)=>{
